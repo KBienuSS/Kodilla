@@ -1,0 +1,42 @@
+body {
+    background-color: #f4f4f9;
+    font-family: 'Georgia', serif;
+    color: #333;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 40px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    text-align: center;
+}
+
+h1 {
+    color: #7b1fa2;
+    font-size: 2.2em;
+    margin-bottom: 5px;
+    border-bottom: 2px solid #e0e0e0;
+    padding-bottom: 10px;
+}
+
+.author {
+    font-style: italic;
+    font-size: 1.1em;
+    color: #6a1b9a;
+    margin-bottom: 30px;
+}
+
+.poem p {
+    margin-bottom: 25px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+    font-size: 1.05em;
+}
